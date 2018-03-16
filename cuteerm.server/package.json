@@ -1,0 +1,25 @@
+{
+  "name": "cuteerm.server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "asyncy": "0.0.4",
+    "body-parser": "~1.18.2",
+    "connect-timeout": "^1.9.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "docx-extractor": "^1.1.4",
+    "elasticsearch": "^14.1.0",
+    "express": "~4.15.5",
+    "hbs": "~4.0.1",
+    "mammoth": "^1.4.4",
+    "morgan": "~1.9.0",
+    "node-schedule": "^1.3.0",
+    "node-windows": "^0.1.14",
+    "pdf-to-text": "0.0.6",
+    "serve-favicon": "~2.4.5"
+  }
+}
